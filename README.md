@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Engineer** with a
 ---
 
 ## 🚀 About Me
-- **🔦 Focus Areas**: Ethical Hacking, Network Security, Malware Analysis, Digital Forensics, Penetration Testing, Android Security, Active Directory Security, and Privilege Escalation.
+- **🔦 Focus Areas**: Ethical Hacking, Network Security, Penetration Testing, Android Security, Active Directory Security, and Privilege Escalation.
 - **💡 Projects**: 
   - Web Application Penetration Testing Framework.
  
