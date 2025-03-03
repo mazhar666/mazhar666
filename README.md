@@ -9,9 +9,10 @@ Welcome to my GitHub profile! I'm a passionate **Penetration Tester** with a str
  
 - **📚 Currently Studying**: 
   - Windows Privilege Escalation Techniques.
-  - CRTA Certificate
-  - HackTheBox, Windows CTFs
-  - 🌟**Know more about my experience:** **[MY CV](https://drive.google.com/file/d/1GzotB7FewSVeYZ2GvLUL1p_vCH9Bwylp/view?usp=sharing)**
+  - Active Directory Attacks.
+  - CRTA Certificate.
+  - HackTheBox, Windows CTFs.
+  - 🌟 **Know more about my experience:** [MY CV](https://drive.google.com/file/d/1GzotB7FewSVeYZ2GvLUL1p_vCH9Bwylp/view?usp=sharing)
 
 ---
 
@@ -43,6 +44,7 @@ Welcome to my GitHub profile! I'm a passionate **Penetration Tester** with a str
 - **Backfire**
 - **Certified**
 - **Titanic**
+
 ---
 
 ## 👮️ How to Reach Me
@@ -52,5 +54,4 @@ Welcome to my GitHub profile! I'm a passionate **Penetration Tester** with a str
 - **[HTB Profile](https://app.hackthebox.com/users/1697679)**
 
 ---
-
 Let's connect and secure the digital world together! 🔒
