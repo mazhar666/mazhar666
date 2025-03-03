@@ -1,17 +1,16 @@
 # Hi there, I'm Ahmed Mazhar! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Cybersecurity Engineer** with a strong interest in **network security**, **ethical hacking**, and **penetration testing**. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate **Penetration Tester** with a strong interest in **Web PenTest**, **Active Directory PenTest**, and **Mobile PenTest**. Here's a bit more about me:
 
 ---
 
 ## 🚀 About Me
-- **🔦 Focus Areas**: Ethical Hacking, Network Security, Penetration Testing, Android Security, Active Directory Security, and Privilege Escalation.
-- **💡 Projects**: 
-  - Web Application Penetration Testing Framework.
+- **🔦 Focus Areas**: Application Penetration Testing, Android Security, Active Directory Security, and Privilege Escalation.
  
 - **📚 Currently Studying**: 
-  - Reverse Engineering Techniques.
-  - Privilege Escalation Techniques.
+  - Windows Privilege Escalation Techniques.
+  - CRTA Certificate
+  - HackTheBox, Windows CTFs
   - 🌟**Know more about my experience:** **[MY CV](https://drive.google.com/file/d/1GzotB7FewSVeYZ2GvLUL1p_vCH9Bwylp/view?usp=sharing)**
 
 ---
@@ -21,7 +20,6 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Engineer** with a
 ### Programming & Scripting Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Cybersecurity Tools & Frameworks
@@ -41,14 +39,10 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Engineer** with a
 ## 🎯 CTF Challenges Solved
 ### **Hack The Box (HTB):**
 - **Cicada**
-- **LinkVortex**
+- **Administrator**
 - **Backfire**
-
-### **TryHackMe (THM):**
-- **Year of the Fox**
-- **Fusion Corp**
-- **Enterprise**
-
+- **Certified**
+- **Titanic**
 ---
 
 ## 👮️ How to Reach Me
