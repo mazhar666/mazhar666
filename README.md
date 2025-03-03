@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Mazhar! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Penetration Tester** with a strong interest in **Web PenTest**, **Active Directory PenTest**, and **Mobile PenTest**. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate **Penetration Tester** with a strong interest in **Web**, **Active Directory**, and **Mobile Penetration Testing**. Here's a bit more about me:
 
 ---
 
